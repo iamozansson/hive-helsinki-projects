@@ -1,4 +1,4 @@
-# kood / Wordle
+# Wordle
 
 A Go command-line game completed during my Hive Helsinki programming sprint.
 
