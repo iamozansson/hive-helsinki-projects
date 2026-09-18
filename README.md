@@ -1,4 +1,4 @@
-# Hive Programming Sprint
+# Hive Helsinki - Go & Bash
 
 A collection of programming exercises and projects completed during my Hive Helsinki programming sprint.
 
@@ -31,8 +31,6 @@ Go exercises covering:
 * File handling
 * CLI applications
 
-Some optional exercises were completed outside the original sprint as additional practice.
-
 ### Projects
 
 The repository also includes larger Go projects and group projects, including:
@@ -40,7 +38,7 @@ The repository also includes larger Go projects and group projects, including:
 * Cypher Tool
 * Notes
 * Weather Station
-* kood / Wordle
+* Wordle
 * Green Day Bank
 
 ## Project Structure
@@ -61,7 +59,7 @@ Some exercises currently contain documentation without an implementation. These 
 * Go
 * Bash
 * Git
-* GitHub
+* Gitea
 * Linux
 * CLI tools
 
