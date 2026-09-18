@@ -5,9 +5,8 @@ func BetweenLimits(from, to rune) string {
 	if from > to {
 		from, to = to, from
 	}
-	for i := from +1; i < to ; i++ {
-	text += string(i)
+	for i := from + 1; i < to; i++ {
+		text += string(i)
 	}
 	return text
 }
-
